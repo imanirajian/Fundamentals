@@ -16,3 +16,13 @@ Don't put too much into an interface; *YAGNI*; split into separate interfaces.
 
 ### 1-5 Dependency Inversion Principle:
 High-level modules should not depend upon low-level ones; use abstraction.
+
+## 2 Design Patterns
+### 2-1 Creational patterns:
+The construction (creation) of objects.
+
+### 2-2 Structural patterns:
+The structure of classes (e.g. class members).
+
+### 2-3 Behavioral patterns:
+No central theme (they are all different).
