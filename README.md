@@ -24,6 +24,8 @@ High-level modules should not depend upon low-level ones; use abstraction.
 ## 2 Design Patterns
 ### 2-1 Creational Patterns:
 The construction (creation) of objects.
+#### 2-1-1 Builder
+Object construction is complicated.
 
 ### 2-2 Structural Patterns:
 The structure of classes (e.g. class members).
