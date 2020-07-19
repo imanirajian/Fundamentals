@@ -33,11 +33,11 @@ Entities must depend on abstractions, not on concrete implementations.
 ### 2-1 Creational Patterns:
 The construction (creation) of objects.
 #### 2-1-1 Builder
-Object construction is complicated.
+Used when object construction is complicated.
 It's piecewise.
 #### 2-1-2 Factory Method
 #### 2-1-3 Abstract Factory
-Object creation logic becomes too convoluted.
+Used when object creation logic becomes too convoluted, the constructor is not descriptive.
 It's non-piecewise.
 Can be outsourced (A separate function, a separate class, hierarchy of factories).
 A component responsible solely for the wholesale (not piecewise) creation of objects.
