@@ -37,7 +37,7 @@ Used when object construction is complicated.
 It's piecewise.
 #### 2-1-2 Factory Method
 #### 2-1-3 Abstract Factory
-Used when object creation logic becomes too convoluted, the constructor is not descriptive.
+Used when object creation logic becomes too convoluted and the constructor is not descriptive.
 It's non-piecewise.
 Can be outsourced (A separate function, a separate class, hierarchy of factories).
 A component responsible solely for the wholesale (not piecewise) creation of objects.
