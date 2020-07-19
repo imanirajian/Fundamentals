@@ -39,7 +39,7 @@ It's piecewise.
 #### 2-1-3 Abstract Factory
 Object creation logic becomes too convoluted.
 It's non-piecewise.
-Can be outsourced.
+Can be outsourced (A separate function, a separate class, hierarchy of factories).
 
 ### 2-2 Structural Patterns:
 The structure of classes (e.g. class members).
