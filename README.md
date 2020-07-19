@@ -7,7 +7,7 @@ Principles of Computer Science and Programming
 ### 1-1 Single Responsibility Principle:
 A class should only have one reason to change; *Separation of concerns*.
 
-A class should have only a single responsibility -- that is, only changes to one part of the software's specification should be able to affect the specification of the class.
+A class should have only a single responsibility — that is, only changes to one part of the software's specification should be able to affect the specification of the class.
 
 ### 1-2 Open-Closed Principle:
 Classes should be open for extension but closed for modification.
