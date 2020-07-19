@@ -40,6 +40,7 @@ It's piecewise.
 Object creation logic becomes too convoluted.
 It's non-piecewise.
 Can be outsourced (A separate function, a separate class, hierarchy of factories).
+A component responsible solely for the wholesale (not piecewise) creation of objects.
 
 ### 2-2 Structural Patterns:
 The structure of classes (e.g. class members).
