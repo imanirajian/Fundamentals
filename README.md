@@ -41,6 +41,10 @@ Used when object creation logic becomes too convoluted and the constructor is no
 It's non-piecewise.
 Can be outsourced (A separate function, a separate class, hierarchy of factories).
 A component responsible solely for the wholesale (not piecewise) creation of objects.
+#### 2-1-4 Prototype
+A partially or fully initialized object that you copy (clone) and make use of.
+#### 2-1-5 Singleton
+A component which is instantiated only once.
 
 ### 2-2 Structural Patterns:
 The structure of classes (e.g. class members).
